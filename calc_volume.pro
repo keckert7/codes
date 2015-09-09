@@ -1,4 +1,4 @@
-RO CALC_VOLUME,czin,czout,ra1,ra2,dec1,dec2,volume
+PRO CALC_VOLUME,czin,czout,ra1,ra2,dec1,dec2,volume
 
 ;;;;;;;;;;;;;;;;;Written by Kathleen Eckert;;;;;;;;;
 ;computes the volume for a given geometry by 
